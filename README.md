@@ -2,7 +2,7 @@
   
    💙 My name is Jorge Rodrigo, I'm a Full Stack Developer in Training at Kenzie Academy Brazil 
    
-   🖥️ I'm currently learning React.js
+   🖥️ I'm currently learning node.js | express.js
    
    📖 Since I was a kid I've always loved computers, and nowadays I have the power to be able to do amazing things using a computer.
    
