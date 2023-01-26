@@ -1,6 +1,6 @@
 # 🚀Welcome to my profile🚀
   
-   💙 My name is Jorge Rodrigo, I'm a Full Stack Developer in Training at Kenzie Academy Brazil 
+   💙 My name is Jorge Rodrigo, I'm a Front End Developer
    
    🖥️ I'm currently learning node.js | express.js
    
