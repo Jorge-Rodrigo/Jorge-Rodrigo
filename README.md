@@ -1,8 +1,8 @@
 # 🚀Welcome to my profile🚀
   
-   💙 My name is Jorge Rodrigo, I'm a Front End Developer
+   💙 My name is Jorge Rodrigo, I'm a junior front-end developer with a passion for creating beautiful, responsive websites. I have experience with HTML, CSS, and JavaScript, and I'm excited to continue learning and growing as a developer. I'm comfortable with using popular front-end frameworks and tools like React and Git. Let's connect and create something great!
    
-   🖥️ I'm currently learning node.js | express.js
+   🖥️ As a budding front-end developer, I'm currently focused on honing my skills in Node.js and Express.js. I'm excited about the potential these technologies bring to web development, and I'm eager to continue my learning journey.
    
    📖 Since I was a kid I've always loved computers, and nowadays I have the power to be able to do amazing things using a computer.
    
