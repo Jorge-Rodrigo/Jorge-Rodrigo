@@ -4,7 +4,7 @@
    
    🖥️ As a budding front-end developer, I'm currently focused on honing my skills in Node.js and Express.js. I'm excited about the potential these technologies bring to web development, and I'm eager to continue my learning journey.
    
-   📖 Since I was a kid I've always loved computers, and nowadays I have the power to be able to do amazing things using a computer.
+   📖 From a young age, I've been fascinated by the power of computers. Today, as a developer, I'm able to leverage that power to create amazing things. Let's collaborate and bring our ideas to life!
    
  # Skills
   <div style="display: inline_block"><br>
