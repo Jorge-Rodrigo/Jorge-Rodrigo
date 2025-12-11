@@ -79,18 +79,17 @@ Integração entre site, backend e engine de jogo para criar:
 
 ## 📊 Estatísticas do GitHub
 
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy-git-main-r7xs.vercel.app/?username=Jorge-Rodrigo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophy
+<p align="center">
+  <img src="./generated/trophy.svg" width="90%" />
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="./generated/streak.svg" width="90%" />
+</p>
 
 
----
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jorge-Rodrigo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-
----
 
 ### 📈 Atividade Recente
 [![Jorge's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jorge-Rodrigo&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
