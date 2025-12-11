@@ -80,12 +80,15 @@ Integração entre site, backend e engine de jogo para criar:
 ## 📊 Estatísticas do GitHub
 
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jorge-Rodrigo&theme=tokyonight&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-git-main-r7xs.vercel.app/?username=Jorge-Rodrigo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jorge-Rodrigo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
 
 ---
 
@@ -95,7 +98,8 @@ Integração entre site, backend e engine de jogo para criar:
 ---
 
 ### 💡 Linguagens Mais Usadas
-![Languages](https://github-readme-stats-zeta-seven-53.vercel.app/api/top-langs/?username=Jorge-Rodrigo&layout=compact&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jorge-Rodrigo&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
