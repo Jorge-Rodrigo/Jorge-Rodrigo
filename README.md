@@ -81,12 +81,12 @@ Integração entre site, backend e engine de jogo para criar:
 
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img src="./generated/trophy.svg" width="90%" />
+  <img src="generated/trophy.svg" width="90%" />
 </p>
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="./generated/streak.svg" width="90%" />
+ <img src="generated/streak.svg" width="90%" />
 </p>
 
 
