@@ -1,0 +1,30 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download Trophy SVG
+        run: |
+          curl -L "https://github-profile-trophy.vercel.app/?username=Jorge-Rodrigo&theme=tokyonight&no-bg=true&margin-w=15" -o generated/trophy.svg
+
+      - name: Download Streak SVG
+        run: |
+          curl -L "https://streak-stats.demolab.com?user=Jorge-Rodrigo&theme=tokyonight&hide_border=true" -o generated/streak.svg
+
+      - name: Commit stats
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add generated/trophy.svg generated/streak.svg
+          git commit -m "Update stats" || echo "No changes"
+          git push
