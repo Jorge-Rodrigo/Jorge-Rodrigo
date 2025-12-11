@@ -1,180 +1,110 @@
+<h1 align="center">🚀 Jorge Rodrigo — Full-Stack Developer & Game Developer</h1>
+<p align="center">Criando experiências digitais modernas, escaláveis e imersivas</p>
 
-<h1 align="center"><b>Olá , Sou Jorge Rodrigo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Full-Stack"></a>
-</p>
+---
 
+## 👨‍💻 Sobre Mim
 
-<br>
+Sou um desenvolvedor full-stack apaixonado por construir soluções completas:  
+desde interfaces ricas e fluidas até arquiteturas robustas no backend.  
+Atualmente também aprofundo meus estudos em **Game Development** com Unity e GameMaker,  
+buscando unir narrativa, sistemas e tecnologia para criar mundos vivos.
 
+Trabalho com foco em:
 
+- Aplicações escaláveis para web e mobile  
+- Arquitetura de software e boas práticas  
+- Sistemas com bancos relacionais e APIs modernas  
+- Experiências interativas e gamificadas  
+- Desenvolvimento de jogos e ferramentas para RPG
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mim**
+---
 
+## 🛠️ Tech Stack
 
-<br>
+### **Linguagens**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
 
-- Apaixonado Desenvolvedor Full Stack, dedicado a criar soluções inovadoras através da programação
-- Experiência sólida em desenvolvimento tanto no lado do cliente quanto no servidor
-- Comprometido com a aprendizagem contínua e aprimoramento de habilidades técnicas
-- Atualmente aprofundando conhecimentos em desenvolvimento web, explorando as últimas tecnologias e tendências
-- Conhecimento abrangente em linguagens como JavaScript, HTML, CSS, Python, SQL e mais...
-- Arquiteto de sistemas eficiente, capaz de desenvolver aplicações robustas e escaláveis
-- Habilidades sólidas em solução de problemas e otimização de desempenho
-- Aberto a colaborações e sempre buscando oportunidades para contribuir para projetos desafiadores
-- [Meu portfólio](https://portfolio-v2-delta-mocha.vercel.app)
+### **Front-End**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
+### **Back-End**
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-<br><br>
+### **Game Development**
+![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+## 🌐 Projetos em Destaque
 
-<p align="center">
+### **📚 SchoolFlow — Plataforma Educacional Completa**
+Sistema full-stack com:
+- Flashcards  
+- Grupos de estudo  
+- Editor ABNT completo  
+- Gamificação  
+- Eventos, comunidades e uploads integrados  
 
-- **Linguagens**:
-    
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Tecnologias:** React Native, Expo Router, Node, TypeORM, PostgreSQL, Cloudinary  
 
+🔗 *Repositório privado durante desenvolvimento*
 
-<br>   
-    
-- **Desenvolvimento Front-End**:
+---
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-   
+### **🎮 Ferramentas de RPG / Tabuleiro 3D (Em Desenvolvimento)**
+Integração entre site, backend e engine de jogo para criar:
+- Tabuleiro 3D low-poly  
+- Fichas dinâmicas em tempo real  
+- Bestiário automático  
+- Controle de turnos e Fog of War  
 
-<br>
+**Tecnologias:** Unity + API própria em Node/PostgreSQL
 
-- **Desenvolvimento Back-End**:
+---
 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-    
-<br>
+## 📊 Estatísticas do GitHub
 
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jorge-Rodrigo&theme=tokyonight&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- **Softwares e Ferramentas**:
+---
 
-    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jorge-Rodrigo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<br>
+---
 
-- **Extras**:
+### 📈 Atividade Recente
+[![Jorge's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jorge-Rodrigo&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+### 💡 Linguagens Mais Usadas
+![Languages](https://github-readme-stats-zeta-seven-53.vercel.app/api/top-langs/?username=Jorge-Rodrigo&layout=compact&theme=tokyonight&hide_border=true)
 
-</p>
+---
 
-<br>
-<br>
+## 🤝 Vamos nos Conectar
 
------
+- 💼 [LinkedIn](https://www.linkedin.com/in/jorge-rodrigo-monteiro)  
+- 📧 Email: **jorgerodrigo.monteiro19@gmail.com**  
+- 🌐 Portfólio: *em atualização*
 
-<br>
+---
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Status </b>
-<br>
-
-<div align="center">
-<a href="https://github.com/Jorge-Rodrigo/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Jorge-Rodrigo&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge-Rodrigo&theme=gruvbox&hide_border=true" />
-</a>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-<a href="https://github.com/Jorge-Rodrigo/">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Rodrigo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"/>
-</a>
-</div>
- 
-<br>
-<br>
-
- <div align="center">
- <a href="https://github.com/Jorge-Rodrigo/">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jorge-Rodrigo&theme=gruvbox&layout=compact&hide_border=true"/>
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jorge-Rodrigo&theme=gruvbox&layout=compact&hide_border=true"/>
-  </a>
-
-  <br>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Vamos nos Conectar..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/jorge-rodrigo-monteiro" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Jorge Rodrigo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<br>
-
-<li>
-<a href="mailto:jorgerodrigo.monteiro19@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: Jorge Rodrigo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-</div>
-<br>
-
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+<p align="center">Feito com dedicação, café e algumas linhas de código a mais ☕💻</p>
