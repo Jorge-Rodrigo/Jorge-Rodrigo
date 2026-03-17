@@ -1,113 +1,132 @@
-<h1 align="center">🚀 Jorge Rodrigo — Full-Stack Developer & Game Developer</h1>
-<p align="center">Criando experiências digitais modernas, escaláveis e imersivas</p>
+# <h1 align="center">Jorge Rodrigo - Full-Stack Developer & Game Developer</h1>
+<p align="center">Criando experiencias digitais modernas, escalaveis e com identidade propria</p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
-Sou um desenvolvedor full-stack apaixonado por construir soluções completas:  
-desde interfaces ricas e fluidas até arquiteturas robustas no backend.  
-Atualmente também aprofundo meus estudos em **Game Development** com Unity e GameMaker,  
-buscando unir narrativa, sistemas e tecnologia para criar mundos vivos.
+Sou um desenvolvedor full-stack focado em construir produtos completos, do front ao back, com atencao em performance, organizacao de codigo e experiencia do usuario.
+
+Tambem exploro **Game Development** com **Unity** e **GameMaker**, buscando unir sistemas, interatividade e estetica para criar projetos mais vivos, marcantes e memoraveis.
 
 Trabalho com foco em:
 
-- Aplicações escaláveis para web e mobile  
-- Arquitetura de software e boas práticas  
-- Sistemas com bancos relacionais e APIs modernas  
-- Experiências interativas e gamificadas  
-- Desenvolvimento de jogos e ferramentas para RPG
+- Interfaces modernas e fluidas
+- Backend robusto e escalavel
+- Aplicacoes com tempo real
+- Arquitetura limpa e boas praticas
+- Experiencias interativas para web e jogos
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### **Linguagens**
+### Linguagens
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Front-End**
+### Front-End
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-### **Back-End**
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+### Back-End
 
-### **Game Development**
-![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Game Development e Ferramentas
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🌐 Projetos em Destaque
+## Projetos em Destaque
 
-### **📚 SchoolFlow — Plataforma Educacional Completa**
-Sistema full-stack com:
-- Flashcards  
-- Grupos de estudo  
-- Editor ABNT completo  
-- Gamificação  
-- Eventos, comunidades e uploads integrados  
+### DiveHub - Hub de Minijogos
 
-**Tecnologias:** React Native, Expo Router, Node, TypeORM, PostgreSQL, Cloudinary  
+Hub de minijogos com autenticacao, perfis, ranking, amigos, grupos, salas e experiencias em tempo real para desafios competitivos.
 
-🔗 *Repositório privado durante desenvolvimento*
+**Tecnologias:** Next.js 16, TypeScript, Styled Components, Framer Motion, Socket.io, NestJS, MongoDB, Mongoose, React Query, JWT, Zod, Axios
+
+- Demo: https://dive-eight.vercel.app/
+- Codigo: privado
 
 ---
 
-### **🎮 Ferramentas de RPG / Tabuleiro 3D (Em Desenvolvimento)**
-Integração entre site, backend e engine de jogo para criar:
-- Tabuleiro 3D low-poly  
-- Fichas dinâmicas em tempo real  
-- Bestiário automático  
-- Controle de turnos e Fog of War  
+### DND Name Generator
 
-**Tecnologias:** Unity + API própria em Node/PostgreSQL
+Projeto focado em animacoes e geracao aleatoria de nomes para fantasia, com geracao de nomes masculinos, femininos e nomes de monstros para DND.
+
+**Tecnologias:** React 18, TypeScript, Vite, Styled Components
+
+- Demo: https://name-generator-one.vercel.app/
+- Codigo: https://github.com/Jorge-Rodrigo/name-generator
 
 ---
 
-## 📊 Estatísticas do GitHub
+### Nu Kenzie - Controle Financeiro
 
-## 🏆 GitHub Trophy
+Aplicacao para organizar a vida financeira com lancamentos de entrada e despesa, calculo automatico de saldo e filtros por tipo para facilitar a leitura do fluxo financeiro.
+
+**Tecnologias:** React 18, JavaScript, Create React App, CSS
+
+- Demo: https://nu-kenzie-jorge-rodrigo.vercel.app/
+- Codigo: https://github.com/Jorge-Rodrigo/Nu-Kenzie-Jorge-Rodrigo/tree/main
+
+---
+
+## Estatisticas do GitHub
+
+## GitHub Trophy
+
 <p align="center">
   <img src="generated/trophy.svg" width="90%" />
 </p>
 
-## 🔥 GitHub Streak
+## GitHub Streak
+
 <p align="center">
  <img src="generated/streak.svg" width="90%" />
 </p>
 
+### Atividade Recente
 
-
-### 📈 Atividade Recente
 [![Jorge's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jorge-Rodrigo&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 💡 Linguagens Mais Usadas
+### Linguagens Mais Usadas
+
 ![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jorge-Rodrigo&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+## Vamos nos Conectar
+
+- LinkedIn: [jorge-rodrigo-monteiro](https://www.linkedin.com/in/jorge-rodrigo-monteiro)
+- GitHub: [Jorge-Rodrigo](https://github.com/Jorge-Rodrigo)
+- Email: **jorgerodrigo.monteiro19@gmail.com**
+- Portfolio: https://portfoliov3-azure-one.vercel.app/
 
 ---
 
-## 🤝 Vamos nos Conectar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jorge-rodrigo-monteiro)  
-- 📧 Email: **jorgerodrigo.monteiro19@gmail.com**  
-- 🌐 Portfólio: *em atualização*
-
----
-
-<p align="center">Feito com dedicação, café e algumas linhas de código a mais ☕💻</p>
+<p align="center">Feito com dedicacao, cafe e algumas linhas de codigo a mais</p>
